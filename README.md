@@ -1,1 +1,1 @@
-# to-the-rust-way
+# To the Rust way :book:
